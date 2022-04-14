@@ -8,7 +8,7 @@ class cat extends animal {
   @override
   void printName() {
     // TODO: implement printName
-    print("My Name is sura");
+    print("My Name is Cati");
   }
 
   @override
@@ -30,7 +30,7 @@ class Dog extends animal {
   @override
   void printName() {
     // TODO: implement printName
-    print("My name is Mohammed Bassam");
+    print("My name is Booby");
   }
 
   @override
@@ -52,7 +52,7 @@ class Cow extends animal {
   @override
   void printName() {
     // TODO: implement printName
-    print("My name is xxAmerxx");
+    print("My name is Coco");
   }
 
   @override
