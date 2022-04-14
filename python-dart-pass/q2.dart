@@ -22,12 +22,6 @@ class Dog extends animal {
 // Overriding method
 
   @override
-  var Name;
-
-  @override
-  var Sound;
-
-  @override
   void printName() {
     // TODO: implement printName
     print("My name is Booby");
@@ -42,12 +36,6 @@ class Dog extends animal {
 
 class Cow extends animal {
 // Overriding method
-
-  @override
-  var Name;
-
-  @override
-  var Sound;
 
   @override
   void printName() {
